@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhilashajayan" alt="abhilashajayan" /></a> </p>
 
+- 🔭 I’m currently working on [Sneak-online](https://github.com/Abhilashajayan/Sneak-Ecom)
+
 - 🌱 I’m currently learning **Next js**
+
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **abhilashna622@gmail.com**
 
@@ -22,4 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilashajayan&show_icons=true&locale=en" alt="abhilashajayan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilashajayan&" alt="abhilashajayan" /></p>
+
 
