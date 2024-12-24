@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhilashajayan&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashajayan" />
+ <img src="https://komarev.com/ghpvc/?username=abhilashajayan&label=🌟 Profile Views 🌟&color=ff5733&style=for-the-badge" alt="abhilashajayan" />
 </p>
